@@ -1,0 +1,136 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+.nav {
+    background-color: #36384c;
+    height: 80px;
+}
+
+.nav img {
+    float: left;
+}
+
+.nav ul {
+    float: right;
+    color: white;
+    font-size: 18px;
+    padding-top: 30px;
+}
+
+.nav ul li {
+    display: inline;
+    padding: 0 20px;
+}
+
+.phan1 {
+    background-image: url(../img/bg7.jpg);
+    height: 600px;
+    background-position: center;
+    text-align: center;
+    background-size: cover;
+}
+
+.phan1 h1 {
+    padding-top: 200px;
+    font-size: 100px;
+}
+
+.phan1 h2 {
+    font-size: 30px;
+}
+
+.canle2ben {
+    padding: 0 20%;
+}
+
+.phan2 {
+    height: 500px;
+    background-color: #e9dccd;
+}
+
+.phan2 .hinhanh {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.phan2 img {
+    width: 21%;
+    height: 200px;
+    padding: 0 15px;
+    background-size: cover;
+    background-position: center;
+}
+
+.phan2 h1 {
+    padding: 50px 0 30px 0;
+}
+
+.phan2 p {
+    font-size: 18px;
+}
+
+.phan3 {
+    background-color: #36384c;
+    height: 750px;
+    color: white;
+}
+
+.phan3 h1 {
+    padding: 50px 0 30px 0;
+}
+
+.phan3 h2 {
+    padding-bottom: 20px;
+}
+
+.phan3 p {
+    padding-bottom: 30px;
+    font-size: 18px;
+}
+
+.phan3 img {
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+}
+
+.phan3 .bentrai {
+    float: left;
+    width: 50%;
+    text-align: center;
+    padding-right: 5px;
+}
+
+.phan3 .benphai {
+    text-align: center;
+}
+
+.phan4 {
+    height: 600px;
+    background-color: #e9dccd;
+    color: #36384c;
+}
+
+.phan4 h1 {
+    padding: 50px 0 20px 0;
+}
+
+.phan4 .map {
+    float: left;
+    padding-right: 20px;
+}
+
+.phan4 .hours h2 {
+    padding: 20px 0;
+}
+
+.phan4 .hours h3 {
+    padding-bottom: 10px;
+}
+
+.footer {
+    text-align: center;
+    background-color: #e9dccd;
+}
